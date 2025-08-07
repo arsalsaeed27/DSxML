@@ -1,0 +1,4 @@
+in this project, i used 3 different datasets. in house_price_prediction1, i used a dataset which had alot of faults in it, i tried cleaning it and then making a model, but the results were not good and my r2 score wasn't well, it was very off from the actual house prices.
+in houseprice_prediction2 i used 2 datasets, both which were clean. the first dataset had less values in it which was why it didn't give an r2 score. but the 2nd dataset was very nice, and its model also gave very good results, the r2 score was around 1 having only an average error of 8000 pkr
+
+it was nice working on this project, it was fun and i learnt from it.
