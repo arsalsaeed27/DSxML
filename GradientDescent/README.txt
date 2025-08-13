@@ -1,0 +1,2 @@
+in this folder, I experimented on gradient descent, what it does and how it works.
+i used simple batch GD, stochastic GD, and mini batch GD. i found batch gradient descent as the most easiest one but stochastic as the most efficient one.
